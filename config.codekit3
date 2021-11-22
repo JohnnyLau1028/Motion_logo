@@ -21,32 +21,6 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/header\/coffeelogo.png" : {
-      "ft" : 32768,
-      "iS" : 5162,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/header\/coffeelogo.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/Hero\/hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 691895,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/Hero\/hero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -66,20 +40,22 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/dev\/content\/content.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/content.html",
-      "oF" : 0
+    "\/design\/Frame.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/design\/Frame.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
-    "\/dev\/content\/hero.kit" : {
+    "\/dev\/content\/logo.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/hero.html",
+      "oAP" : "\/dev\/content\/logo.html",
       "oF" : 0
     },
     "\/dev\/global\/head.kit" : {
@@ -88,14 +64,6 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/global\/head.html",
-      "oF" : 0
-    },
-    "\/dev\/global\/header.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/global\/header.html",
       "oF" : 0
     },
     "\/dev\/global\/scripts.kit" : {
@@ -110,18 +78,18 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/deploy\/index.html",
-      "oF" : 2
+      "oF" : 3
     },
     "\/dev\/js\/scripts.js" : {
       "bF" : 4,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/deploy\/js\/scripts-min.js",
-      "oF" : 2,
+      "oF" : 3,
       "sC" : 3,
       "tS" : 0
     },
@@ -275,7 +243,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_content.scss" : {
+    "\/dev\/scss\/sections\/_logo.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -284,22 +252,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_content.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/dev\/scss\/sections\/_hero.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_hero.css",
+      "oAP" : "\/dev\/scss\/sections\/_logo.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -313,9 +266,9 @@
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/deploy\/css\/styles.css",
-      "oF" : 2,
+      "oF" : 3,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
@@ -333,39 +286,6 @@
       "oA" : 2,
       "oAP" : "\/node_modules",
       "oF" : 0
-    },
-    "\/node_modules\/gsap\/CSSPlugin.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 1,
-      "oAP" : "\/node_modules\/gsap\/CSSPlugin-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
-    "\/node_modules\/gsap\/gsap-core.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 1,
-      "oAP" : "\/node_modules\/gsap\/gsap-core-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
-    "\/node_modules\/gsap\/index.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 1,
-      "oAP" : "\/node_modules\/gsap\/index-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
     },
     "\/package-lock.json" : {
       "ft" : 524288,
@@ -392,7 +312,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 654009680.036273,
-    "displayValue" : "Motion-F21-AM",
+    "displayValue" : "Motion_logo",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-pale",
     "iconImageWasSetByUser" : 0
